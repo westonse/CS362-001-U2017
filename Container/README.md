@@ -6,7 +6,7 @@ public int get(int n);/* returns 1 if n is in the Container, 0 otherwise */
 Public int remove(int n); /* returns 1 if n was in the Container; after return n is not in the Container! */
 public int size()/* returns the number of elements in this Container.*/
 
-#To run only ContainerTest.java:  mvn -Dtest=ContainerTest test
-#To run only ContainerRandomTest.java:  mvn -Dtest=ContainerRandomTest test
-#To run both: mvn test
+To run only ContainerTest.java:  mvn -Dtest=ContainerTest test
+To run only ContainerRandomTest.java:  mvn -Dtest=ContainerRandomTest test
+To run both: mvn test
 
